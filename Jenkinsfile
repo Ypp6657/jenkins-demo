@@ -11,7 +11,7 @@ pipeline {
           echo "The Jenkins file is working!!!"
         }
       }
-      stage('stage 2') {
+      stage('stage 3') {
         steps {
           echo "The Jenkins file is working!!!"
         }
